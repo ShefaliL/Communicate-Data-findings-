@@ -1,4 +1,4 @@
-# #Exploratory Data Analysis - Ford Gobike
+# Exploratory Data Analysis - Ford Gobike
 ## by Shefali Luley
 
 
